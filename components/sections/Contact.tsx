@@ -45,11 +45,13 @@ export default function Contact() {
             });
 
             const result = await response.json();
+            console.log("Web3Forms Response:", result);
 
             if (result.success) {
                 setStatus("success");
                 setFormData({ name: "", email: "", subject: "", message: "" });
             } else {
+                console.error("Web3Forms Error:", result.message || "Unknown error");
                 setStatus("error");
             }
 
