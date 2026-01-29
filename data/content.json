@@ -1,0 +1,352 @@
+{
+    "personal": {
+        "name": "Vishwanath Gouda",
+        "title": "Software Engineer | SAP UI5 Fiori Developer",
+        "tagline": "Building enterprise solutions with modern web technologies",
+        "location": "Bengaluru, India",
+        "bio": "Passionate software engineer specializing in SAP UI5 Fiori development with expertise in building scalable, user-centric enterprise applications. I combine technical excellence with creative problem-solving to deliver high-quality solutions that drive business value.",
+        "email": "vishwa9483500835@gmail.com",
+        "phone": "+91-9483500835",
+        "resume": "/resume/Vishwanath_ResumeCPG1.pdf",
+        "socials": {
+            "github": "https://github.com/codered-369",
+            "linkedin": "https://linkedin.com/in/vishwanath-narayan",
+            "email": "mailto:vishwa9483500835@gmail.com"
+        }
+    },
+    "skills": {
+        "frontend": [
+            "SAP UI5",
+            "SAP Fiori",
+            "JavaScript",
+            "React",
+            "HTML5",
+            "CSS3",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "Java",
+            "SQL",
+            "Node.js",
+            "SAP Gateway",
+            "OData Services",
+            "REST APIs",
+            "Express.js"
+        ],
+        "tools": [
+            "Git",
+            "SAP Web IDE",
+            "VS Code",
+            "SAP BTP",
+            "SAP BAS",
+            "Postman",
+            "Chrome DevTools"
+        ],
+        "other": [
+            "Agile/Scrum",
+            "Responsive Design",
+            "Performance Optimization",
+            "Prompt Engineering",
+            "Generative AI"
+        ]
+    },
+    "experience": [
+        {
+            "id": 1,
+            "company": "Capgemini Technology Services Pvt. Ltd.",
+            "position": "SAP UI5/Fiori Developer",
+            "duration": "February 2025 - Present",
+            "location": "Bengaluru, India",
+            "description": "Working as an SAP UI5/Fiori Developer building modern, responsive enterprise applications. Contributing to the Baker Hughes account in a shadow developer role, delivering SAP UI5/Fiori UI pages and supporting application enhancements.",
+            "achievements": [
+                "Completed intensive SAP UI5/Fiori training and now actively developing enterprise applications",
+                "Developing and customizing SAP Fiori applications using SAPUI5, HTML5, JavaScript, and OData services",
+                "Collaborating with functional and technical teams to deliver tailored SAP solutions that enhance user experience and business efficiency",
+                "Successfully delivered UI pages for Baker Hughes account projects"
+            ],
+            "technologies": [
+                "SAP UI5",
+                "SAP Fiori",
+                "OData",
+                "JavaScript",
+                "SAP BTP",
+                "SAP Gateway",
+                "HTML5",
+                "XML",
+                "JSON"
+            ]
+        },
+        {
+            "id": 2,
+            "company": "Exposys Datalabs",
+            "position": "Web Development Intern",
+            "duration": "September 2023 - October 2023",
+            "location": "Virtual Internship",
+            "description": "Completed a virtual internship focused on web development, gaining hands-on experience in building functional websites and collaborative projects.",
+            "achievements": [
+                "Independently developed a fully functional website, showcasing excellent web development skills",
+                "Received positive feedback on implemented projects, demonstrating keen eye for design and user experience",
+                "Collaborated with a team to implement an effective Video Chatting Website"
+            ],
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "React",
+                "Web Development"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Mahalakshmi Boating Services Website",
+            "description": "A modern, responsive tourism website for a boating service business featuring online booking, package management, and payment integration.",
+            "image": "/images/projects/boating-website.webp",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Google Pay API",
+                "Responsive Design"
+            ],
+            "features": [
+                "Online booking system with real-time availability",
+                "Integrated payment gateway (Google Pay)",
+                "Multi-language support (English, Kannada)",
+                "Mobile-first responsive design",
+                "SEO optimized with structured data"
+            ],
+            "links": {
+                "demo": "https://sharavati-boating.github.io/honnavar/",
+                "github": "https://github.com/codered-369/Sharavatiboating-honnavar-"
+            },
+            "category": "Web Development"
+        },
+        {
+            "id": 2,
+            "title": "Namma UK - Uttara Kannada Tourism",
+            "description": "A comprehensive tourism website showcasing the natural beauty and cultural heritage of Uttara Kannada district, Karnataka. Features interactive maps, taluk-wise exploration, and detailed information about beaches, waterfalls, forests, and historical sites across all 12 taluks.",
+            "image": "/images/projects/namma-uk.webp",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Responsive Design",
+                "Interactive Maps"
+            ],
+            "features": [
+                "Interactive map-based exploration of tourist destinations",
+                "Taluk-wise categorization of 12 administrative divisions",
+                "Comprehensive information on beaches, waterfalls, trekking spots, and heritage sites",
+                "Multi-language support (English, Kannada, Hindi)",
+                "Mobile-first responsive design for seamless browsing",
+                "SEO optimized with structured data and meta tags"
+            ],
+            "links": {
+                "demo": "https://namma-uk.vercel.app/",
+                "github": "https://github.com/codered-369/NammaUK"
+            },
+            "category": "Web Development"
+        },
+        {
+            "id": 3,
+            "title": "Mining Details App",
+            "description": "A comprehensive SAP UI5/Fiori application for managing mining-related data with full CRUD operations and seamless backend integration via OData services.",
+            "image": "/images/projects/mining-app.webp",
+            "technologies": [
+                "SAP UI5",
+                "SAP Fiori",
+                "OData",
+                "JavaScript",
+                "XML",
+                "JSON",
+                "HTML5",
+                "CSS3",
+                "SAP BTP"
+            ],
+            "features": [
+                "Full CRUD (Create, Read, Update, Delete) operations for mining data management",
+                "Seamless integration with backend systems via OData services",
+                "Responsive and user-friendly interface following Fiori design guidelines",
+                "Real-time data synchronization with SAP backend",
+                "Optimized performance for enterprise-scale operations"
+            ],
+            "links": {
+                "github": "https://github.com/codeXcpg-369/miningCRUD"
+            },
+            "category": "Enterprise Application"
+        },
+        {
+            "id": 4,
+            "title": "Baker Hughes Material Manager",
+            "description": "A SAP Fiori Material Manager application developed for Baker Hughes account as a shadow resource. Features equipment data management with master-detail views, search functionality, and reusable fragments built in SAP Business Application Studio.",
+            "image": "/images/projects/baker-hughes.webp",
+            "technologies": [
+                "SAP UI5",
+                "SAP Fiori",
+                "JSON Model",
+                "Fragments",
+                "JavaScript",
+                "XML",
+                "SAP BAS",
+                "HTML5",
+                "CSS3"
+            ],
+            "features": [
+                "Material Manager with equipment data table view",
+                "Equipment detail display using fragments for modular UI components",
+                "Search equipment dialog with filtering capabilities",
+                "Master-detail pattern implementation",
+                "JSON model-based data management for equipment information",
+                "Reusable fragments for Equipment Data Display",
+                "Responsive Fiori design following SAP guidelines"
+            ],
+            "links": {
+                "github": "https://github.com/codeXcpg-369/bhughes"
+            },
+            "category": "Enterprise Application"
+        },
+        {
+            "id": 5,
+            "title": "Portfolio Website",
+            "description": "A modern, SEO-optimized portfolio website built with Next.js 14, featuring dark mode, animations, and accessibility.",
+            "image": "/images/projects/portfolio.webp",
+            "technologies": [
+                "Next.js 14",
+                "TypeScript",
+                "Tailwind CSS",
+                "Framer Motion"
+            ],
+            "features": [
+                "Server-side rendering for optimal SEO",
+                "Dark/light theme with system preference detection",
+                "Smooth animations and micro-interactions",
+                "WCAG 2.1 AA accessibility compliant",
+                "Lighthouse score 95+ across all metrics"
+            ],
+            "links": {
+                "demo": "https://vishwanathgouda.dev",
+                "github": "https://github.com/codered-369/portfolio"
+            },
+            "category": "Web Development"
+        },
+        {
+            "id": 6,
+            "title": "Corporate Survival Kit",
+            "description": "A fun, interactive web app with productivity tools and entertainment features for corporate professionals.",
+            "image": "/images/projects/survival-kit.webp",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "Web APIs"
+            ],
+            "features": [
+                "Meme generator with custom text overlay",
+                "Traffic estimator for Bangalore routes",
+                "Direct WhatsApp messaging tool",
+                "Fake call generator for emergencies",
+                "Sick mode with audio effects"
+            ],
+            "links": {
+                "demo": "https://si-de-kic-k.vercel.app/",
+                "github": "https://github.com/codered-369/SiDEKicK"
+            },
+            "category": "Web App"
+        }
+    ],
+    "certifications": [
+        {
+            "id": 1,
+            "name": "Capgemini OCEAN Certified L2 - Application Developer - SAP - FIORI",
+            "issuer": "Capgemini OCEAN",
+            "date": "September 2025",
+            "credentialUrl": "/certificates/Ocean_Fiori_L2.png"
+        },
+        {
+            "id": 2,
+            "name": "Developing UIs with SAPUI5",
+            "issuer": "SAP",
+            "date": "January 2026",
+            "credentialUrl": "/certificates/SAPUI5_Completion.pdf"
+        },
+        {
+            "id": 3,
+            "name": "Scaling SAP ABAP with RESTful Programming",
+            "issuer": "Coursera",
+            "date": "January 2026",
+            "credentialUrl": "/certificates/SAP_ABAP_RESTful.pdf"
+        },
+        {
+            "id": 4,
+            "name": "Introduction to RISE with SAP Methodology",
+            "issuer": "SAP",
+            "date": "August 2025",
+            "credentialUrl": "/certificates/RISE_with_SAP.pdf"
+        },
+        {
+            "id": 5,
+            "name": "ChatGPT for Work: The Definitive Guide to Innovate with AI",
+            "issuer": "Udemy",
+            "date": "July 2025",
+            "credentialUrl": "/certificates/ChatGPT_Innovate.pdf"
+        },
+        {
+            "id": 6,
+            "name": "Google Cloud Fundamentals Core Infrastructure",
+            "issuer": "Google Cloud",
+            "date": "August 2025",
+            "credentialUrl": "/certificates/GCP_Fundamentals.pdf"
+        },
+        {
+            "id": 7,
+            "name": "Agile Software Development",
+            "issuer": "University of Minnesota (Coursera)",
+            "date": "June 2025",
+            "credentialUrl": "/certificates/Agile_Development.pdf"
+        },
+        {
+            "id": 8,
+            "name": "AWS Academy Cloud Foundations",
+            "issuer": "AWS Academy",
+            "date": "April 2024",
+            "credentialUrl": "/certificates/AWS_Cloud_Foundations.pdf"
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "degree": "Bachelor of Engineering in Computer Science",
+            "institution": "Nitte Meenakshi Institute of Technology",
+            "location": "Bengaluru, Karnataka",
+            "duration": "2021 - 2024",
+            "grade": "7.8 CGPA",
+            "achievements": [
+                "Graduated with First Class with Distinction",
+                "Co-developed research project on Android Malware Detection using Deep Learning (published in IEEE Xplore by faculty advisors): https://ieeexplore.ieee.org/document/10892795"
+            ]
+        },
+        {
+            "id": 2,
+            "degree": "Diploma in Computer Science",
+            "institution": "MES RNS Polytechnic College",
+            "location": "Sirsi, Karnataka",
+            "duration": "2018 - 2021",
+            "grade": "92%",
+            "achievements": [
+                "Completed with 92% - First Class with Distinction"
+            ]
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Nagesh(Mahalakshmi Boating Services)",
+            "role": "Business Owner",
+            "company": "Mahalakshmi Boating, Honnavar",
+            "image": "/images/testimonials/mahalakshmi.jpg",
+            "quote": "Vishwanath delivered an outstanding website for our boating business. The design is modern, user-friendly, and perfectly captures the essence of our services. His attention to detail and professionalism throughout the project was exceptional. Highly recommended!"
+        }
+    ]
+}
