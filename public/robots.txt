@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vishwanathgouda.dev/sitemap.xml
+Sitemap: https://portfolio-seven-cyan-82.vercel.app/sitemap.xml
