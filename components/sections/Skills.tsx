@@ -68,7 +68,7 @@ export default function Skills() {
                                 applications
                             </p>
                             <div className="flex flex-wrap gap-3">
-                                {["SAP UI5", "JavaScript", "TypeScript", "React", "Next.js"].map(
+                                {["SAP UI5/Fiori", "JavaScript", "Java", "React", "Next.js"].map(
                                     (tech) => (
                                         <span
                                             key={tech}
