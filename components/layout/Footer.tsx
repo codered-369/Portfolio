@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Github, Linkedin, Twitter, Mail, Heart } from "lucide-react";
 import content from "@/data/content.json";
 
-const socialLinks = [
+const socialLinks: any[] = [
     {
         name: "GitHub",
         href: content.personal.socials.github,
@@ -15,9 +15,9 @@ const socialLinks = [
         href: content.personal.socials.linkedin,
         icon: Linkedin,
     },
-    content.personal.socials.twitter && {
+    "twitter" in content.personal.socials && {
         name: "Twitter",
-        href: content.personal.socials.twitter,
+        href: (content.personal.socials as any).twitter,
         icon: Twitter,
     },
     {
