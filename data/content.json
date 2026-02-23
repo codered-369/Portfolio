@@ -179,8 +179,8 @@
         },
         {
             "id": 4,
-            "title": "Baker Hughes Material Manager",
-            "description": "A SAP Fiori Material Manager application developed for Baker Hughes account as a shadow resource. Features equipment data management with master-detail views, search functionality, and reusable fragments built in SAP Business Application Studio.",
+            "title": "Material Manager",
+            "description": "A SAP Fiori Material Manager application developed for client account. Features equipment data management with master-detail views, search functionality, and reusable fragments built in SAP Business Application Studio.",
             "image": "/images/projects/baker-hughes.webp",
             "technologies": [
                 "SAP UI5",
