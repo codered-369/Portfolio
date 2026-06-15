@@ -314,6 +314,13 @@
             "issuer": "AWS Academy",
             "date": "April 2024",
             "credentialUrl": "/certificates/AWS_Cloud_Foundations.pdf"
+        },
+              {
+            "id": 9,
+            "name": "SAP Certified - SAP Fiori Application Developer",
+            "issuer": "SAP",
+            "date": "June 2026",
+            "credentialUrl": "/certificates/SAPCertification20260608-30-rmg6fi.pdf"
         }
     ],
     "education": [
