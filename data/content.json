@@ -235,7 +235,7 @@
             "id": 6,
             "title": "PDFizer RAG Pipeline",
             "description": "An intelligent Retrieval-Augmented Generation (RAG) web application that allows users to chat with their PDF documents using advanced AI embeddings and large language models.",
-            "image": "public/images/projects/PDFizer.png",
+            "image": "/images/projects/PDFizer.png",
             "technologies": [
                 "Python",
                 "Streamlit",
