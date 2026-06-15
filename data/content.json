@@ -233,28 +233,30 @@
         },
         {
             "id": 6,
-            "title": "Corporate Survival Kit",
-            "description": "A fun, interactive web app with productivity tools and entertainment features for corporate professionals.",
-            "image": "/images/projects/survival-kit.webp",
+            "title": "PDFizer RAG Pipeline",
+            "description": "An intelligent Retrieval-Augmented Generation (RAG) web application that allows users to chat with their PDF documents using advanced AI embeddings and large language models.",
+            "image": "/images/projects/pdfizer.webp",
             "technologies": [
-                "React",
-                "TypeScript",
-                "Tailwind CSS",
-                "Web APIs"
+                "Python",
+                "Streamlit",
+                "LangChain",
+                "Scikit-Learn",
+                "Google Gemini API"
             ],
             "features": [
-                "Meme generator with custom text overlay",
-                "Traffic estimator for Bangalore routes",
-                "Direct WhatsApp messaging tool",
-                "Fake call generator for emergencies",
-                "Sick mode with audio effects"
+                "Automated PDF document ingestion and optimal text segmentation",
+                "Pure Python vector store using SKLearn for seamless, zero-dependency cloud deployment",
+                "High-accuracy context retrieval using Google GenAI Embeddings",
+                "Dynamic search constraint adjustment to prevent errors on small documents",
+                "Interactive chat interface with session history and dark/light mode toggle"
             ],
             "links": {
-                "demo": "https://si-de-kic-k.vercel.app/",
-                "github": "https://github.com/codered-369/SiDEKicK"
+                "demo": "https://pdfizer-rag-pipeline.streamlit.app/",
+                "github": "https://github.com/codered-369/pdfizer-rag-pipeline"
             },
-            "category": "Web App"
+            "category": "Artificial Intelligence"
         }
+
     ],
     "certifications": [
         {
