@@ -321,7 +321,15 @@
             "issuer": "SAP",
             "date": "June 2026",
             "credentialUrl": "/certificates/SAPCertification20260608-30-rmg6fi.pdf"
+        },
+          {
+            "id": 10,
+            "name": "SAP Certified - SAP Generative AI Developer",
+            "issuer": "SAP",
+            "date": "June 2026",
+            "credentialUrl": "/certificates/SAPCertification20260624-31-fxd5kb.pdf"
         }
+        
     ],
     "education": [
         {
