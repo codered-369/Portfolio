@@ -255,7 +255,33 @@
                 "github": "https://github.com/codered-369/pdfizer-rag-pipeline"
             },
             "category": "Artificial Intelligence"
+        },
+                {
+            "id": 7,
+            "title": "TSS Sirsi Smart Predictor",
+            "description": "A cloud-native progressive web app for Arecanut farmers to track live APMC market rates. Features a fully automated WhatsApp-to-database pipeline and an AI-powered 7-day price forecasting model to provide actionable sell/hold insights.",
+            "image": "/images/projects/tss-predictor.webp",
+            "technologies": [
+                "Next.js 15 (App Router)",
+                "TypeScript",
+                "Twilio Webhooks",
+                "Upstash Redis",
+                "Machine Learning (Linear Regression)"
+            ],
+            "features": [
+                "Zero-touch daily database updates via automated WhatsApp text parsing",
+                "7-day future price prediction using custom time-series algorithms",
+                "Actionable intelligence engine advising users on market volatility",
+                "Installable PWA functionality with native Web Share API integration",
+                "Bilingual support (English/Kannada) wrapped in a modern Glassmorphism UI"
+            ],
+            "links": {
+                "demo": "https://tss-price-predictor.vercel.app/",
+                "github": "https://github.com/codered-369/TSS-PricePredictor"
+            },
+            "category": "Web Development"
         }
+
 
     ],
     "certifications": [
