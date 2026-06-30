@@ -280,7 +280,34 @@
                 "github": "https://github.com/codered-369/TSS-PricePredictor"
             },
             "category": "Web Development"
+        },
+                {
+            "id": 8,
+            "title": "TruthBoard - Public Accountability Platform",
+            "description": "A community-driven social database built to bring internet accountability to light. Allows users to securely log and permanently store evidence of toxic behavior, scams, and misinformation across the web.",
+            "image": "/images/projects/truthboard.webp",
+            "technologies": [
+                "Next.js 14",
+                "TypeScript",
+                "Upstash Redis",
+                "Vercel Blob Storage",
+                "Web Share API"
+            ],
+            "features": [
+                "Centralized, responsive social timeline with Twitter/X style data presentation",
+                "Dynamic 'Hall of Shame' profiles that automatically aggregate evidence against specific users",
+                "Permanent evidence logging using serverless Redis and secure image hosting via Vercel Blob",
+                "Community corroboration system allowing users to verify and upvote credibility of reports",
+                "Advanced category tagging, filtering, and monthly historical archives",
+                "Built-in administrative moderation tools for permanent deletion of false reports"
+            ],
+            "links": {
+                "demo": "https://expose-lac-two.vercel.app/",
+                "github": "https://github.com/codered-369/FF"
+            },
+            "category": "Web Development"
         }
+
 
 
     ],
